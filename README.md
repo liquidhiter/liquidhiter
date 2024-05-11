@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://github.com/liquidhiter/Graph_In_C/assets/35713945/7b9f9920-a616-4a3f-a08e-2b85953223f4)
+
 ![liquidhiter's GitHub stats](https://github-readme-stats-liquidhiter.vercel.app/api?username=liquidhiter&count_private=true&show_icons=true&theme=shdow_green)
