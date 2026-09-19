@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="802" viewBox="0 0 440 802" role="img" aria-labelledby="title desc">
+<title id="title">Maxin — embedded and systems engineering</title>
+<desc id="desc">Experience: C, C++, Python; Cortex-M, Bluetooth LE, radio drivers; FreeRTOS, Zephyr; concurrency, shared memory, event-driven design; build systems, CI, test automation. Building lightweight publish/subscribe middleware for FreeRTOS. Exploring OS internals, embedded Linux, edge AI, inference runtimes, and Rust.</desc>
+<rect x=".5" y=".5" width="439" height="801" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12 1H428Q439 1 439 12V46H1V12Q1 1 12 1Z" fill="#161b22"/>
+<path d="M1 46H439" fill="none" stroke="#30363d" stroke-width="1"/>
+<circle cx="26" cy="23" r="5" fill="#ff7b72"/>
+<circle cx="46" cy="23" r="5" fill="#e3b341"/>
+<circle cx="66" cy="23" r="5" fill="#56d364"/>
+<text x="94" y="29" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">maxin@dev:~</text>
+<text x="418" y="29" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="13" font-weight="400" text-anchor="end">profile</text>
+<text x="24" y="85" fill="#79e2b6" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">$</text>
+<text x="48" y="85" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">cat profile</text>
+<text x="24" y="123" fill="#79e2b6" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="17" font-weight="700" text-anchor="start">[ experience ]</text>
+<text x="24" y="153" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">languages</text>
+<text x="24" y="178" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">C / C++ / Python</text>
+<text x="24" y="211" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">firmware</text>
+<text x="24" y="236" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Cortex-M / Bluetooth LE</text>
+<text x="24" y="262" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Radio drivers</text>
+<text x="24" y="295" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">rtos</text>
+<text x="24" y="320" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">FreeRTOS / Zephyr</text>
+<text x="24" y="353" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">design</text>
+<text x="24" y="378" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Concurrency / Shared memory</text>
+<text x="24" y="404" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Event-driven design</text>
+<text x="24" y="437" fill="#8b949e" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">tooling</text>
+<text x="24" y="462" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Build systems / CI</text>
+<text x="24" y="488" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Test automation</text>
+<path d="M24 510H416" fill="none" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="544" fill="#79c0ff" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="17" font-weight="700" text-anchor="start">[ building ]</text>
+<text x="24" y="576" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Lightweight pub/sub middleware</text>
+<text x="24" y="602" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">for FreeRTOS</text>
+<path d="M24 626H416" fill="none" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="660" fill="#d2a8ff" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="17" font-weight="700" text-anchor="start">[ exploring ]</text>
+<text x="24" y="692" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">OS internals / Embedded Linux</text>
+<text x="24" y="718" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Edge AI / Inference runtimes</text>
+<text x="24" y="744" fill="#e6edf3" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="18" font-weight="400" text-anchor="start">Rust</text>
+<text x="24" y="782" fill="#79e2b6" font-family="&#x27;DejaVu Sans Mono&#x27;, &#x27;Liberation Mono&#x27;, Consolas, monospace" font-size="14" font-weight="400" text-anchor="start">maxin@dev:~$</text>
+<rect x="128" y="770" width="8" height="15" rx="1" fill="#79e2b6"/>
+</svg>
